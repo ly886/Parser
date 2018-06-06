@@ -1,15 +1,17 @@
-windows 
 
-±àÒë»·¾³
+âš ï¸æ³¨æ„âš ï¸
+è¯·æ³¨æ„æµ‹è¯•ä¾‹å­çš„è¡Œå°¾åºåˆ—å¿…é¡»ä¸ºLFï¼Œä¿®æ”¹å¯ä½¿ç”¨vscode
+æºä»£ç å¯åœ¨xcodeä¸Šè¿è¡Œ
+
+windows/linux/mac
+ç¼–è¯‘ç¯å¢ƒ
 gcc 6.3.0
-±àÒë
+ç¼–è¯‘
 1.cd /src
 2.gcc -o parser main.cpp parser.cpp scaner.cpp
-ÓÃ·¨
+ç”¨æ³•
 1.parser <filename>
-²âÊÔÎÄ¼ş
+æµ‹è¯•æ–‡ä»¶
 gcd.c-
 
-Mac
-ĞèÏÈ°²×°xcode
-1.´ò¿ª /Óï·¨·ÖÎö-xcode/Óï·¨·ÖÎö.xcodeproj
+
